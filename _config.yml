@@ -22,7 +22,7 @@ avatar_image: /img/image_50414337.jpeg
 
 #-------------------------------
 # Contact links
-linkedin: "www.linkedin.com/in/hussein-mazloum-9b0269327" # Add your linkedIn handle
+linkedin: "https://www.linkedin.com/in/hussein-mazloum-9b0269327" # Add your linkedIn handle
 github: "https://github.com/husseinmazloum"  # Add your github handle
 
 paginate: 6
